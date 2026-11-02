@@ -4,7 +4,7 @@ Windows 10/11 x64 工具：将《杀戮尖塔 2》Steam 普通槽或 Mod 槽导�
 
 ## 下载
 
-从 [GitHub Releases](https://github.com/PAKingdom/sts2-save-exporter/releases/latest) 下载最新版本的 `塔2存档导出工具-v1.3.0.exe`，无需安装 Python。
+从 [GitHub Releases](https://github.com/PAKingdom/sts2-save-exporter/releases/latest) 下载 `sts2-save-exporter-v1.3.0.exe`，无需安装 Python。
 
 ## 使用
 
